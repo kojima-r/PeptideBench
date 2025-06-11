@@ -1,7 +1,9 @@
 # PeptideBench
+peptipediaからベンチマークデータを作成するスクリプト
 
-使用API
-一覧
+## 使用API
+
+Activity一覧
 ```
 https://api.app.peptipedia.cl/api/get_activities_sources_list/
 ```
